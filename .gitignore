@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+
+# Local-only editor/agent state
+.claude/
+
+# Internal working docs — design, plans, research. Kept locally, not published.
+docs/
+
+# Internal test logs (acceptance scenarios in tests/scenarios/ are published)
+tests/SMOKE-RESULTS-*.md

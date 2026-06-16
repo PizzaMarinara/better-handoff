@@ -1,0 +1,13 @@
+{
+  "name": "better-handoff",
+  "displayName": "Better Handoff",
+  "description": "Portable cross-harness session handoff: durable project memory, work log, and todos in a committed .handoff/ directory.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Enrico Fantini"
+  },
+  "homepage": "https://github.com/PizzaMarinara/better-handoff#readme",
+  "repository": "https://github.com/PizzaMarinara/better-handoff.git",
+  "license": "MIT",
+  "keywords": ["handoff", "session", "memory", "continuity", "todos", "resume", "cross-harness"]
+}
